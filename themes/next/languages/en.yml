@@ -53,8 +53,8 @@ footer:
 counter:
   tag_cloud:
     zero: No tags
-    one: 1 tag in total
-    other: "%d tags in total"
+    one: 好想把標籤和分類頁合併R
+    other: 好想把標籤和分類頁合併R
 
   categories:
     zero: No categories
